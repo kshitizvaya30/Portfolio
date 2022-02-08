@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "id": "planbttr",
+      "company_name": "PlanBttr",
+      "type": "Internship",
+      "date": "September 2021 - December 2021",
+      "tech_stack": {
+        "name": "Tech Stack",
+        "list": [
+          "React Native",
+          "JavaScript",
+          "NodeJs",
+          "Google API Integration",
+          "Microsoft Outlook Integration",
+          "Zoom API Integration",
+          "MySQL",
+          "HTML",
+          "CSS"
+        ]
+      },
+      "links": [
+        {
+          "name": "Github",
+          "url": ""
+        },
+        {
+          "name": "Live",
+          "url": ""
+        }
+      ],
+      "features": {
+        "name": "Key Features",
+        "list": [
+          "A Full-featured application providing features like scheduling meetings between different people integrating platforms as Google Meet, Zoom, Phone calls, Microsoft Outlook, and Yahoo Calendar (Similar to Calendly). ",
+          "Took the responsibility as the first developer in the company to set up the whole codebase, and create architecture layout on how to proceed forward in developing",
+          " Provided knowledge transfer and trained developers joining forward and leading them"
+        ]
+      },
+      "images": [
+        {
+          "label": "First slide label",
+          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+          "alt": "First Slide",
+          "url": "./../Assets/bg-masthead.jpg"
+        }
+      ]
+    },
+    {
+      "id": "blood_donor",
+      "company_name": "Blood Donor",
+      "type": "Social Project",
+      "date": "June 2021",
+      "tech_stack": {
+        "name": "Tech Stack",
+        "list": [
+          "Spring Boot",
+          "Java",
+          "React Js",
+          "MySQL",
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ]
+      },
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/kshitizvaya30/Blood-donor"
+        },
+        {
+          "name": "Live",
+          "url": ""
+        }
+      ],
+      "features": {
+        "name": "Key Features",
+        "list": [
+          "A full-stack application helping people to find donors for blood and plasma during the Covid-19 pandemic with helping over 2000 people in the city Udaipur.",
+          "Worked on developing features allowing people to register and submit requests, sending the list of people who match their requirements, close to their location.",
+          "Developing an Admin portal helps the team to identify which requests are pending, and easily filter out the data according to the requirement easing the way to help people faster",
+          "Providing additional information for other medical requirements such as Free food, Ambulance service, Oxygen Services in the city"
+        ]
+      },
+      "images": [
+        {
+          "label": "First slide label",
+          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+          "alt": "First Slide",
+          "url": "./../Assets/bg-masthead.jpg"
+        }
+      ]
+    },
+    {
+      "id": "covid_tracker",
+      "company_name": "COVID-19 TRACKER",
+      "type": "Social Project",
+      "date": "June 2021",
+      "tech_stack": {
+        "name": "Tech Stack",
+        "list": ["ReactJS", "JavaScript", "HTML", "CSS"]
+      },
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/kshitizvaya30/Covid19-Tracker"
+        },
+        {
+          "name": "Live",
+          "url": "https://covid19-tracker-94fc8.web.app/"
+        }
+      ],
+      "features": {
+        "name": "Key Features",
+        "list": [
+          "A COVID-19 Tracker/Dashboard website displaying different covid cases and data happening across the globe.",
+          "Functionality includes multiple graphs helping the user to see the data more efficiently depending on the country, state, and city with data being fetched from major govt websites and other recommended sources."
+        ]
+      },
+      "images": [
+        {
+          "label": "First slide label",
+          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+          "alt": "First Slide",
+          "url": "./../Assets/bg-masthead.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meme_generator",
+      "company_name": "Meme Generator",
+      "type": "Social Project",
+      "date": "January 2022",
+      "tech_stack": {
+        "name": "Tech Stack",
+        "list": ["Firebase", "ReactJS", "JavaScript", "HTML", "CSS"]
+      },
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/kshitizvaya30/MemeGenerator"
+        },
+        {
+          "name": "Live",
+          "url": ""
+        }
+      ],
+      "features": {
+        "name": "Key Features",
+        "list": [
+          "MemeGen is a web applicaton which genrates meme automatically according to the given Image",
+          "All the User has to do is, get a random image and set the Text",
+          "MemeGen will generate a meme and allow the User to donload it along with the option to see Saved meme"
+        ]
+      },
+      "images": [
+        {
+          "label": "First slide label",
+          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+          "alt": "First Slide",
+          "url": "./../Assets/bg-masthead.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stack_overflow_Crawler",
+      "company_name": "Stack OverFlow Crawler",
+      "type": "Project",
+      "date": "January 2022",
+      "tech_stack": {
+        "name": "Tech Stack",
+        "list": [
+          "NodeJs",
+          "Cheerio",
+          "Cluster-Worker Threads",
+          "Script",
+          "Mongo db"
+        ]
+      },
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/kshitizvaya30/StackOverflowCrawler"
+        },
+        {
+          "name": "Live",
+          "url": ""
+        }
+      ],
+      "features": {
+        "name": "Key Features",
+        "list": [
+          "Developed , Distributed downloader process with NodeJs request Client using cluster and worker threads",
+          "Fetching all the URL's containing Questions and their subdata using CHEERIO",
+          "Store the crawled HTML/XML content into the MongoDb Database",
+          "Generating statistics for the data fetched from Stack OverFlow along with a PDF",
+          "Operating System process Scheduling"
+        ]
+      },
+      "images": [
+        {
+          "label": "First slide label",
+          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+          "alt": "First Slide",
+          "url": "./../Assets/bg-masthead.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spotify",
+      "company_name": "Spotify",
+      "type": "Project",
+      "date": "June 2021",
+      "tech_stack": {
+        "name": "Tech Stack",
+        "list": ["ReactJS", "JavaScript", "Spotify API", "HTML", "CSS"]
+      },
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/kshitizvaya30/spotify-clone"
+        },
+        {
+          "name": "Live",
+          "url": "https://spotify-clone-369b4.web.app/"
+        }
+      ],
+      "features": {
+        "name": "Key Features",
+        "list": [
+          "A ReactJS application, allowing users to log in through Spotify and enjoy their original playlist which is there on Spotify"
+        ]
+      },
+      "images": [
+        {
+          "label": "First slide label",
+          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+          "alt": "First Slide",
+          "url": "./../Assets/bg-masthead.jpg"
+        }
+      ]
+    }
+  ]
+}
