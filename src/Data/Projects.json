@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "planbttr",
-      "company_name": "PlanBttr",
+      "company_name": "PlanBttr - Internship",
       "type": "Internship",
       "date": "September 2021 - December 2021",
       "tech_stack": {
@@ -39,10 +39,10 @@
       },
       "images": [
         {
-          "label": "First slide label",
-          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-          "alt": "First Slide",
-          "url": "./../Assets/bg-masthead.jpg"
+          "label": "",
+          "info": "",
+          "alt": "  ",
+          "url": "Projects/planbttr/pb.jpg"
         }
       ]
     },
@@ -84,10 +84,22 @@
       },
       "images": [
         {
-          "label": "First slide label",
-          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-          "alt": "First Slide",
-          "url": "./../Assets/bg-masthead.jpg"
+          "label": "",
+          "info": "",
+          "alt": "First Slide 1",
+          "url": "Projects/blood-donor/2.jpg"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 2",
+          "url": "Projects/blood-donor/3.jpg"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 3",
+          "url": "Projects/blood-donor/1.jpg"
         }
       ]
     },
@@ -119,10 +131,34 @@
       },
       "images": [
         {
-          "label": "First slide label",
-          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-          "alt": "First Slide",
-          "url": "./../Assets/bg-masthead.jpg"
+          "label": "",
+          "info": "",
+          "alt": "Covid Slide 1",
+          "url": "Projects/covid/1.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "Covid Slide 2",
+          "url": "Projects/covid/2.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "Covid Slide 3",
+          "url": "Projects/covid/3.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "Covid Slide 4",
+          "url": "Projects/covid/4.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "Covid Slide 5",
+          "url": "Projects/covid/5.png"
         }
       ]
     },
@@ -142,7 +178,7 @@
         },
         {
           "name": "Live",
-          "url": ""
+          "url": "https://memegenerator-2e759.web.app/"
         }
       ],
       "features": {
@@ -155,15 +191,39 @@
       },
       "images": [
         {
-          "label": "First slide label",
-          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-          "alt": "First Slide",
-          "url": "./../Assets/bg-masthead.jpg"
+          "label": "",
+          "info": "",
+          "alt": "First Slide 1",
+          "url": "Projects/MemeGenerator/3.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 2",
+          "url": "Projects/MemeGenerator/4.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 3",
+          "url": "Projects/MemeGenerator/5.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 4",
+          "url": "Projects/MemeGenerator/1.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 5",
+          "url": "Projects/MemeGenerator/2.png"
         }
       ]
     },
     {
-      "id": "stack_overflow_Crawler",
+      "id": "stack_overflow_crawler",
       "company_name": "Stack OverFlow Crawler",
       "type": "Project",
       "date": "January 2022",
@@ -199,10 +259,28 @@
       },
       "images": [
         {
-          "label": "First slide label",
-          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-          "alt": "First Slide",
-          "url": "./../Assets/bg-masthead.jpg"
+          "label": "",
+          "info": "",
+          "alt": "First Slide 1",
+          "url": "Projects/StackOverflow/1.jpg"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 2",
+          "url": "Projects/StackOverflow/4.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 3",
+          "url": "Projects/StackOverflow/3.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 4",
+          "url": "Projects/StackOverflow/5.png"
         }
       ]
     },
@@ -233,10 +311,22 @@
       },
       "images": [
         {
-          "label": "First slide label",
-          "info": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-          "alt": "First Slide",
-          "url": "./../Assets/bg-masthead.jpg"
+          "label": "",
+          "info": "",
+          "alt": "First Slide 1",
+          "url": "Projects/Spotify/2.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 2",
+          "url": "Projects/Spotify/1.png"
+        },
+        {
+          "label": "",
+          "info": "",
+          "alt": "First Slide 3",
+          "url": "Projects/Spotify/3.png"
         }
       ]
     }

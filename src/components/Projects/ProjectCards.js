@@ -6,8 +6,8 @@ import { BiLinkExternal } from "react-icons/bi";
 function ProjectCards(props) {
   return (
     <Card className="project-card-view">
-      <Card.Img variant="top" src={props.imgPath} alt="card-img" />
-      <Card.Body>
+      <Card.Img variant="top" src={props.imgPath} alt="card-img" style={{height: '45%'}}/>
+      <Card.Body className="d-flex flex-column">
         <Card.Title>{props.title}</Card.Title>
         <Card.Text
           style={{
@@ -16,7 +16,7 @@ function ProjectCards(props) {
         >
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.link} target="_blank">
+        <Button variant="primary" className="mt-auto" href={props.link} target="_blank">
           <BiLinkExternal /> &nbsp;
           {props.isBlog ? "View Blog" : "View Project"}
         </Button>

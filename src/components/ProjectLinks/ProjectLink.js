@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Carousel, Button, Badge } from "react-bootstrap";
 import Particle from "../Particle";
-import "./ProjectLink.css";
 
 function ProjectLink({ projectData }) {
   const links = projectData.links.map((link) => {
@@ -13,7 +12,7 @@ function ProjectLink({ projectData }) {
             size="sm"
             rel="noopener noreferrer"
           >
-            <a href={link.url} target="_blank">
+            <a href={link.url} target="blank">
               {link.name}
             </a>
           </Button>
@@ -44,8 +43,8 @@ function ProjectLink({ projectData }) {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          style={{ height: "500px", objectFit: "cover", maxHeight: "100vh" }}
-          src={data.url}
+          style={{"backgroundColor" : "black" }}
+          src={process.env.PUBLIC_URL + "/" + data.url}
           alt={data.alt}
         />
         <Carousel.Caption>
