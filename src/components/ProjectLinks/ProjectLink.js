@@ -1,5 +1,13 @@
 import React from "react";
-import { Container, Row, Col, Carousel, Button, Badge } from "react-bootstrap";
+import {
+  Container,
+  Row,
+  Col,
+  Carousel,
+  Button,
+  Badge,
+  CarouselItem,
+} from "react-bootstrap";
 import Particle from "../Particle";
 
 function ProjectLink({ projectData }) {
@@ -40,10 +48,10 @@ function ProjectLink({ projectData }) {
 
   const imagesData = projectData.images.map((data) => {
     return (
-      <Carousel.Item>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
-          style={{"backgroundColor" : "black" }}
+          style={{ backgroundColor: "black" }}
           src={process.env.PUBLIC_URL + "/" + data.url}
           alt={data.alt}
         />
@@ -61,7 +69,7 @@ function ProjectLink({ projectData }) {
         <h2 className="text-left text-white">{projectData.company_name}</h2>
         <Row xs={12} md={6}>
           <Col xs={12} md={6}>
-            <Row xs={2} md={4} lg={6}>
+            <Row xs={4} sm={6} md={8} lg={6}>
               {links}
             </Row>
             <Row xs={12} md={12} lg={12}>
@@ -82,7 +90,7 @@ function ProjectLink({ projectData }) {
             </Row>
           </Col>
           <Col xs={12} md={6}>
-            <Carousel>{imagesData}</Carousel>
+            <Carousel >{imagesData}</Carousel>
           </Col>
         </Row>
       </Container>
