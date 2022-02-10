@@ -13,6 +13,8 @@ import {
   AiOutlineUser,
 } from "react-icons/ai";
 
+import {SiGooglescholar} from "react-icons/si";
+
 import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
@@ -78,6 +80,19 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/projects/planbttr"
+                onClick={() => updateExpanded(false)}
+              >
+                <SiGooglescholar
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Experience
               </Nav.Link>
             </Nav.Item>
 
