@@ -6,7 +6,6 @@ import {
   Carousel,
   Button,
   Badge,
-  CarouselItem,
 } from "react-bootstrap";
 import Particle from "../Particle";
 

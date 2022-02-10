@@ -5,16 +5,10 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython,
   DiGit,
   DiJava,
 } from "react-icons/di";
-import {
-  SiFirebase,
-  SiSpring,
-} from "react-icons/si";
-
-// import {SiSpringboot} from "react-icons/"
+import { SiFirebase, SiSpring } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -37,12 +31,6 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiSpring />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
-      </Col> */}
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <SiTensorflow />
-      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
