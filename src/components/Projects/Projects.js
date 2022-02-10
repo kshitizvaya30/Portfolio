@@ -6,7 +6,7 @@ import bloodDonor from "./../../Assets/Projects/blood-donor/2.jpg";
 import Covid from "./../../Assets/covid.jpg";
 import MemeGen from "./../../Assets/Projects/MemeGenerator/3.png";
 import StackOverflow from "./../../Assets/Projects/StackOverflow/1.jpg";
-import Spotify from "./../../Assets/Projects/Spotify/2.png";
+import Spotify from "./../../Assets/Projects/Spotify/Spotify.jpg";
 
 function Projects() {
   return (
